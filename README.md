@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -134,7 +134,6 @@
             <li>Bachelor of Engineering in Mechanical Engineering (2021 - Present)</li>
             <li>CGPA: 3.84/4.0 (till 6th semester)</li>
             <li>Recipient of Benazir Undergraduate Scholarship Project (full-tuition scholarship).</li>
-            <li>Dean's Award Jan 2022, Dean's Award Jun 2022.</li>
         </ul>
 
         <h3>Khatoon-e-Pakistan Govt. Degree College for Women</h3>
@@ -156,7 +155,7 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li><strong>3D Printing, SEM Analysis, Compression Testing, Topology Optimization, CAD Modelling, Ansys Mechanical, ANSYS Explicit Dynamics, Microsoft Office, Report and Documentation.</li>
+            <li><strong>Technical:</strong> 3D Printing, SEM Analysis, CAD Modeling, ANSYS, Microsoft Office.</li>
             <li><strong>Soft Skills:</strong> Adaptability, Logical Reasoning, Strategic Planning, Public Engagement.</li>
         </ul>
     </section>
