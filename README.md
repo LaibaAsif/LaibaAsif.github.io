@@ -1,4 +1,4 @@
-# ![Laiba Asif](Laiba.jpg) Laiba Asif  
+# ![Laiba Asif](Laiba.jpg)  
 **Nationality**: Pakistani  
 📞 **Phone**: (+92) 3132006626  
 ✉️ **Email**: [laiba.asif162@gmail.com](mailto:laiba.asif162@gmail.com)  
