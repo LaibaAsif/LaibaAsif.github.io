@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -115,7 +115,6 @@
             As a Mechanical Engineer and Formula Student enthusiast, I am deeply passionate about STEM, particularly in structural and materials engineering. My journey began with a commitment to breaking gender barriers and advocating for diversity in STEM. With a solid foundation in mechanical engineering and hands-on Formula Student experience, I aim to contribute to innovative solutions while championing inclusivity in engineering.
         </p>
         <div class="image">
-            <img src="about_me.jpg" alt="About Me">
             <p>Exploring structural engineering concepts during a workshop.</p>
         </div>
     </section>
@@ -129,8 +128,9 @@
             <li>Developed optimal slurry composition for 3D printing.</li>
         </ul>
         <div class="image">
-            <img src="research_lab.jpg" alt="Research Lab">
-            <p>Working on additive manufacturing during the MITACS internship.</p>
+            <img src="Screenshot 2024-12-15 002900.png" alt="Research Lab">
+            <img src="Untitled design.jpg" alt="Research Lab">
+            <img src="about_me.png" alt="Research Lab">
         </div>
 
         <h3>Structure Lead - Formula Electric Racing-NUST (FERN)</h3>
@@ -141,7 +141,7 @@
             <li>Promoted Women in STEM through initiatives like a BBC Urdu interview.</li>
         </ul>
         <div class="image">
-            <img src="formula_student.jpg" alt="Formula Student">
+            <img src="WhatsApp Image 2024-12-15 at 00.43.39_53dd6a6c.jpg" alt="Formula Student">
             <p>Team Formula Electric Racing-NUST at FSUK 2023.</p>
         </div>
 
@@ -151,8 +151,6 @@
             <li>Observed production processes in fabrication shops and presented findings to a panel.</li>
         </ul>
         <div class="image">
-            <img src="shipyard.jpg" alt="Shipyard">
-            <p>Technical observations at Karachi Shipyard.</p>
         </div>
     </section>
 
@@ -165,7 +163,7 @@
             <li>Recipient of Benazir Undergraduate Scholarship Project (full-tuition scholarship).</li>
         </ul>
         <div class="image">
-            <img src="nust_campus.jpg" alt="NUST Campus">
+            <img src="download.jpeg" alt="NUST Campus">
             <p>Beautiful view of NUST's main campus.</p>
         </div>
 
@@ -181,15 +179,11 @@
         <h3>Radiator Positioning in Formula Student Vehicle</h3>
         <p>Optimized radiator mass flow and mounting points through CFD analysis using DS SOLIDWORKS and Siemens Star CCM+.</p>
         <div class="image">
-            <img src="radiator_project.jpg" alt="Radiator Project">
-            <p>CFD simulation of radiator positioning.</p>
         </div>
 
         <h3>Braking System Design</h3>
         <p>Designed and simulated a braking system based on Formula Student rules using MATLAB and DS SOLIDWORKS.</p>
         <div class="image">
-            <img src="braking_system.jpg" alt="Braking System">
-            <p>Simulation of braking system dynamics.</p>
         </div>
     </section>
 
@@ -206,14 +200,16 @@
         <h3>Meal Preparation at Government School</h3>
         <p>Prepared 500+ meals as part of a SEEK Lab and ASHRAE PNEC Chapter activity in September 2024.</p>
         <div class="image">
-            <img src="meal_preparation.jpg" alt="Meal Preparation">
+            <img src="WhatsApp Image 2024-12-15 at 00.34.28_49f55214.jpg" alt="Meal Preparation">
+             <img src="WhatsApp Image 2024-12-15 at 00.34.29_63b95f13.jpg" alt="Meal Preparation">
+              <img src="WhatsApp Image 2024-12-15 at 00.34.29_f69e45ca.jpg" alt="Meal Preparation">
             <p>Volunteers preparing meals at the government school.</p>
         </div>
 
         <h3>IEEE-WIE Panel Discussion</h3>
         <p>Guided junior batches at NUST-PNEC on securing internships and maximizing undergraduate experiences in October 2024.</p>
         <div class="image">
-            <img src="panel_discussion.jpg" alt="Panel Discussion">
+            <img src="WhatsApp Image 2024-12-15 at 00.34.29_1617dcc3.jpg" alt="Panel Discussion">
             <p>IEEE-WIE panel discussion on career growth.</p>
         </div>
     </section>
