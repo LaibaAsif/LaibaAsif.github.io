@@ -141,6 +141,7 @@
         </ul>
         <div class="image">
             <img src="WhatsApp Image 2024-12-15 at 00.43.39_53dd6a6c.jpg" alt="Formula Student">
+            <img src="Screenshot 2024-12-15 004102.png" alt="Formula Student">
             <p>Team Formula Electric Racing-NUST at FSUK 2023.</p>
         </div>
 
