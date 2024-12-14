@@ -202,7 +202,6 @@
         <div class="image">
             <img src="WhatsApp Image 2024-12-15 at 00.34.28_49f55214.jpg" alt="Meal Preparation">
              <img src="WhatsApp Image 2024-12-15 at 00.34.29_63b95f13.jpg" alt="Meal Preparation">
-              <img src="WhatsApp Image 2024-12-15 at 00.34.29_f69e45ca.jpg" alt="Meal Preparation">
             <p>Volunteers preparing meals at the government school.</p>
         </div>
 
