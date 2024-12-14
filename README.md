@@ -115,7 +115,7 @@
             As a Mechanical Engineer and Formula Student enthusiast, I am deeply passionate about STEM, particularly in structural and materials engineering. My journey began with a commitment to breaking gender barriers and advocating for diversity in STEM. With a solid foundation in mechanical engineering and hands-on Formula Student experience, I aim to contribute to innovative solutions while championing inclusivity in engineering.
         </p>
         <div class="image">
-            <p>Exploring structural engineering concepts during a workshop.</p>
+        
         </div>
     </section>
 
