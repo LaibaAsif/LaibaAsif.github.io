@@ -162,8 +162,6 @@
             <li>Recipient of Benazir Undergraduate Scholarship Project (full-tuition scholarship).</li>
         </ul>
         <div class="image">
-            <img src="download.jpeg" alt="NUST Campus">
-            <p>Beautiful view of NUST's main campus.</p>
         </div>
 
         <h3>Khatoon-e-Pakistan Govt. Degree College for Women</h3>
