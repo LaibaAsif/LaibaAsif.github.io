@@ -129,7 +129,6 @@
         </ul>
         <div class="image">
             <img src="Screenshot 2024-12-15 002900.png" alt="Research Lab">
-            <img src="Untitled design.jpg" alt="Research Lab">
             <img src="about_me.png" alt="Research Lab">
         </div>
 
