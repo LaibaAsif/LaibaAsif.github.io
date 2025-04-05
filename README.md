@@ -214,6 +214,6 @@
     <footer>
         <p>© 2024 Laiba Asif | <a href="mailto:laiba.asif162@gmail.com" style="color: white;">Contact Me</a></p>
     </footer>
-    <div class="sketchfab-embed-wrapper"> <iframe title="FS Chassis" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d4e2a229615049f295d141b7c4bfd14d/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/chassis--2024-c00-d4e2a229615049f295d141b7c4bfd14d?utm_medium=embed&utm_campaign=share-popup&utm_content=d4e2a229615049f295d141b7c4bfd14d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Chassis _2024_C00 </a> </p></div>
+    <div class="sketchfab-embed-wrapper"> <iframe title="FS Chassis" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d4e2a229615049f295d141b7c4bfd14d/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> </p></div>
 </body>
 </html>
